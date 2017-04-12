@@ -124,5 +124,6 @@ def main():
     print(myMat)
     print(recommend(myMat,2))
 	
+# main function
 if __name__ == '__main__':
     main()
